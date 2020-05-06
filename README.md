@@ -2,7 +2,7 @@
 # One Man Band
 One Man Band is a single player music puzzle game. Set in a nightmarish world full of challenges and obstacles the player must overcome with the help of musical instruments.
 ## Demo
-[![One Man Band Demo](http://i3.ytimg.com/vi/kHCqNnc2pTM/maxresdefault.jpg)](https://www.youtube.com/watch?v=kHCqNnc2pTM)
+[![One Man Band Demo](https://i.imgur.com/zQn43Js.png)](https://youtu.be/bAwL2v7c324)
 
 ## Download
 * [Build for Windows](https://drive.google.com/open?id=1NcLhW_j4IXe3WozAPQg71-njT-E6Nvm7)
