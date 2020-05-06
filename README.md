@@ -9,14 +9,14 @@ One Man Band is a single player music puzzle game. Set in a nightmarish world fu
 * [Build for Mac](https://drive.google.com/open?id=1pcdYFDRcZxnK3-eC8yfDIHMx0UNVOtkx)
 
 ## Game Design Document
-A detailed game design document about the development, features and mechanics can be found [here](https://github.com/Pipas/OneManBand/raw/master/Deliverables/DJCO-FP-G8-OneManBand-GDD.pdf).
+A detailed game design document about the development, features and mechanics can be found [here](https://github.com/tirafesi/OneManBand/blob/master/Deliverables/DJCO-FP-G8-OneManBand-GDD.pdf).
 
 ## Team
 This project was developed for the subject of DJCO@FEUP by the following team.
 ### Programming
-* Cláudia Marinho - [arwen7stars](https://github.com/arwen7stars)
-* Paulo Correia - [Pipas](https://github.com/pipas)
-* Tiago Silva - [Tirafesi](https://github.com/tirafesi)
+* [Cláudia Marinho](https://github.com/arwen7stars)
+* [Paulo Correia](https://github.com/pipas)
+* [Tiago Silva](https://github.com/tirafesi)
 ### Art
 * Francisca Correia
 * Mariana Neves
